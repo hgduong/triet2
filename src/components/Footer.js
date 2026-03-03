@@ -305,9 +305,9 @@ const Footer = () => {
             © {currentYear} Triết 2 - Kinh tế chính trị Mác - Lênin. All rights reserved.
           </Copyright>
           <FooterBottomLinks>
-            <a href="#">Privacy Policy</a>
-            <a href="#">Terms of Service</a>
-            <a href="#">Cookie Policy</a>
+            <a href="/privacy">Privacy Policy</a>
+            <a href="/terms">Terms of Service</a>
+            <a href="/cookies">Cookie Policy</a>
           </FooterBottomLinks>
         </FooterBottom>
       </Container>
