@@ -172,6 +172,7 @@ const navItems = [
   { name: 'Cạnh tranh', href: '#competition' },
   { name: 'KT thị trường', href: '#market' },
   { name: 'CNH - HĐH', href: '#industrialization' },
+  { name: 'Quiz', href: '#quiz' },
   { name: 'Thư viện', href: '#gallery' },
 ];
 

@@ -5,6 +5,7 @@ import GlobalStyles from './styles/GlobalStyles';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import ContentSections from './components/ContentSections';
+import Quiz from './components/Quiz';
 import Gallery from './components/Gallery';
 import Footer from './components/Footer';
 
@@ -16,6 +17,7 @@ function App() {
       <main>
         <Hero />
         <ContentSections />
+        <Quiz />
         <Gallery />
       </main>
       <Footer />
